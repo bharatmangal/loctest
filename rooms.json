@@ -2,7 +2,7 @@
 	"rooms": [
 	  {
 		"uniqueID": "R001",
-		"roomNumber": "101",
+		"roomNumber": "105",
 		"roomName": "",
 		"designatedPerson": "John Doe",
 		"comment": "Main meeting room",
